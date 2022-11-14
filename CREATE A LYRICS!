@@ -1,0 +1,29 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace LYRICS
+{
+    public class COMPRO_2 
+    {         
+      public static void Main(string[] arg)
+      {
+       Console.WriteLine("Liwanag, Ligaya!");
+       Console.WriteLine("Light, Joy!");
+       Console.WriteLine("Claridad, Alegria!");
+       Console.WriteLine("Kasamang, Kasadya!");
+       Console.WriteLine("Lamrang, Kalipay!");
+       Console.WriteLine("Sahaya, Kakuyagan!");
+       Console.WriteLine("Kahayag, Kalipay!");
+       Console.WriteLine("Raniag, Ragsak!");
+       Console.WriteLine("Limawa, Liket!");
+       Console.WriteLine("Sigay, Lilini!");
+       Console.WriteLine("Liwanag, Kaogmahan!");
+       Console.WriteLine("Sulu at ing tula!");
+       Console.WriteLine("Kibou, Yorokobi!");
+       Console.WriteLine("Illumina, Gioia!");
+       Console.WriteLine("YangGuong, XiYue!");
+       Console.ReadLine();
+      }
+    }
+}
